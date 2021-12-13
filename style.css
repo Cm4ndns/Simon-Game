@@ -5,8 +5,8 @@
 }
 
 body {
-  /* background-color: rgb(31, 29, 54); */
-  background-image: linear-gradient(#1c0c5b, #3d2c8d, #916bbf, #c996cc);
+  background-color: rgb(31, 29, 54);
+  /*background-image: linear-gradient(#1c0c5b, #3d2c8d, #916bbf, #c996cc);*/
   min-height: 100vh;
   font-family: "Press Start 2P";
 }
